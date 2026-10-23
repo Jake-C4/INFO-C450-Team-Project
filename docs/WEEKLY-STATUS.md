@@ -10,7 +10,7 @@ This is the one file your instructor checks each week. Keep each entry short: so
 
 ## Week [N] — [date]
 
-- **Done:** *(What each person finished, with the document or task IDs.)*
+- **Done:** Jake - Created Repository
 - **Next:** *(What each person will do next week.)*
 - **Blockers:** *(Anything stopping progress, and who can help — or "None.")*
 - **Open questions:** *(Open items from the Spec's Open Questions, by ID — or "None.")*
