@@ -1,0 +1,53 @@
+# SoloTech — Business Case
+
+**Version:** 0.1 (Draft)  
+**Owner:** Product Owner — [Name]  
+**Date:** October 26, 2026  
+**Sponsor Decision:** Pending  
+**Approved By:** Pending
+
+## 1. Problem
+
+Independent IT consultants and freelance technicians often use phone calls, emails, text messages, or personal notes to communicate with customers and manage technical support requests. While this may work for a small number of customers, it can become difficult to stay organized as more requests come in.
+
+Without one place to manage these requests, technicians may lose track of appointments, forget previous troubleshooting steps, or have difficulty keeping customers updated. Customers may also be unsure about the progress of their service requests.
+
+Our goal is to create a simpler way for technicians and customers to communicate and track support requests. We can measure success by having at least 4 out of 5 test users complete a basic support request process without assistance.
+
+## 2. Proposed Solution
+
+SoloTech is a web application designed to help independent IT consultants manage their small businesses. Customers will be able to submit technical support requests for issues such as computer problems, home Wi-Fi, printers, or software installation. Technicians will have a dashboard where they can view requests, update their progress, and record completed work.
+
+The application will focus on keeping things simple for people who are starting an IT consulting business and may not need the features of a larger IT management system.
+
+## 3. Options Considered
+
+| Option | Description | Pros | Cons |
+|---|---|---|---|
+| **Do Nothing** | Continue using emails, phone calls, text messages, and personal notes. | Free and requires no new software. | Difficult to stay organized, and requests could be overlooked. |
+| **Option A: Existing Software** | Use an existing help desk or customer management application. | Already developed and includes useful features. | Some platforms may cost money or have more features than a small business needs. |
+| **Option B: Build SoloTech** | Create a web application focused on managing customer requests for independent IT consultants. | Can be designed around our target users and gives our team development experience. | Requires time to design, build, and test. |
+
+**Preferred Option:** Option B, building SoloTech.
+
+## 4. Can We, and Is It Worth It?
+
+| Question | Answer |
+|---|---|
+| **Will people actually use it?** | We believe independent IT technicians could benefit from having one place to manage customers and support requests. We will need feedback from potential users to see if our idea meets their needs. |
+| **Can we build it with what we have?** | Yes, we believe a basic version is possible using the tools provided in our course. We can start with a simple web application that uses sample data and a simulated login. |
+| **Can it be done in time to matter?** | We believe the project is manageable within the nine-week course if we focus on the most important features first. More advanced features can be considered later. |
+| **What does it cost?** | Our main cost will be the time spent designing and developing the application. We plan to use free development tools and hosting where possible. If SoloTech becomes a real business product, additional hosting and maintenance costs may apply. |
+| **What do we gain?** | Technicians could have an easier way to organize requests, track completed work, and communicate with customers. Our team would also gain experience with system design, databases, APIs, and building a web application. |
+
+## 5. Recommendation
+
+Our team recommends moving forward with SoloTech as our Systems Design project. We believe it addresses a real problem for independent IT consultants who want a simple way to manage their customer support requests.
+
+For the first version, we plan to focus on customer requests, tracking their progress, and recording completed services. This will allow us to build a basic working application while staying within the course requirements and timeline.
+
+We are requesting approval to continue developing the SoloTech concept and begin working on the project's specifications and design.
+
+**Sponsor Decision:** Pending (Go / No-Go)  
+**Sponsor Name:** [To be completed]  
+**Decision Date:** [To be completed]
