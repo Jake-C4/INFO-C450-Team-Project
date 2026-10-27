@@ -1,7 +1,10 @@
 # HostCircle – Group Hosting Rotation — Business Case
 
-**When:** Week 1 · **Owner:** TBD · **Done when:** every item in the SVC Self-Check at the end is true.  
+**When:** Week 1 · **Proposed product owner:** Pending group confirmation · **Done when:** every item in the SVC Self-Check at the end is true.
+
 **Sponsor decision:** Go / No-go · **By:** ___ · **Date:** ___
+
+The estimates and evaluation approach below are proposals for group review, not confirmed commitments.
 
 ## 1. Problem
 
@@ -11,8 +14,10 @@ Groups of friends who regularly take turns hosting game nights, dinners, or othe
 **What’s wrong today?**  
 When a group regularly gets together, it can be hard to keep track of who hosted last, whose turn is next, and what everyone contributed. Over time, some people may end up hosting or contributing more than others.
 
+This is a problem to validate with people who regularly host: ask whether tracking turns and contributions is a recurring issue and how they handle it today.
+
 **How will we know it worked?**  
-The project will be successful if at least 80% of gatherings created during the initial evaluation period have a host and contributions recorded, allowing the group to track how hosting responsibilities are being shared.
+Proposed measure: During a four-week pilot with a small number of participating groups, at least 80% of gatherings created should have a host and at least one contribution recorded. Also collect participant feedback on whether the hosting rotation feels fair; complete records alone do not show whether it feels fair.
 
 ## 2. Proposed Solution
 
@@ -32,8 +37,8 @@ HostCircle would give groups one place to organize their regular gatherings, kee
 |---|---|
 | **Will people actually use it?** | There is a reason for people who regularly host gatherings to use it because it gives them one place to keep track of hosting responsibilities. Actual use would need to be measured after the app is introduced. |
 | **Can we build it with what we have?** | Yes. The first version can focus on the main purpose of organizing gatherings and keeping track of hosts and contributions without adding unnecessary features. |
-| **Can it be done in time to matter?** | Yes, if the first version stays focused on organizing gatherings, tracking hosting turns, and recording contributions. |
-| **What does it cost?** | There would be initial costs to develop and set up the app along with ongoing costs such as hosting, maintenance, and any services needed to keep it running. Exact costs would need to be determined before development. |
+| **Can it be done in time to matter?** | Proposed target: 4–5 weeks of work, with the final build targeted for December, assuming the first version stays focused on creating gatherings, assigning hosts, and recording contributions. Confirm the schedule against the team's plan. |
+| **What does it cost?** | Proposed estimate: $0 in out-of-pocket costs for a class prototype using free development tools. This excludes team time and assumes no paid services are needed; deployment or ongoing hosting could add costs. |
 | **What do we gain?** | The main benefit is having one place to keep track of gatherings, hosting turns, and contributions. The number of gatherings with a recorded host and contributions can be measured to see whether people are actually using the app for its intended purpose. |
 
 ## 5. Recommendation
