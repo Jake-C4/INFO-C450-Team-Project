@@ -8,15 +8,22 @@ This is the one file your instructor checks each week. Keep each entry short: so
 
 ---
 
-## Week [N] — [date]
+## Week 1 — October 22, 2026
 
-- **Done:** Jake - Created Repository
-- **Next:** *(What each person will do next week.)*
-- **Blockers:** *(Anything stopping progress, and who can help — or "None.")*
-- **Open questions:** *(Open items from the Spec's Open Questions, by ID — or "None.")*
-- **AI use:** *(How the team used AI this week, and who checked it — or "None.")*
-- **Change request:** *(Optional — see "Adapting the Process" in the README. What you want to change, why, and what it affects — or "None.")*
-- **Instructor response:** *(Filled in by the instructor: Approved / Declined, date, and any note.)*
+- **Done:**
+  - Jacob (Product Owner) — Created the GitHub repository, arranged team access, and set up a Review branch for suggestions.
+  - Kenneth (Architecture Lead) — Helped draft the initial Business Case and Specification/Constitution for team review.
+  - Matthew (Delivery Lead) — Contributed project ideas, helped the group agree on HostCircle, and confirmed team roles.
+  - Team — Selected HostCircle to help friend groups organize gatherings, rotate hosting, and coordinate contributions.
+- **Next:**
+  - Jacob — Review and revise the Business Case and Specification with team feedback.
+  - Kenneth — Review requirements for feasibility and help clarify the planned features.
+  - Matthew — Maintain Weekly Status and begin the Style Guide for Week 2.
+  - Team — Review the Week 1 drafts and agree on HostCircle's core features.
+- **Blockers:** Initial confusion about team membership and project choice caused delays. These have since been resolved.
+- **Open questions:** None recorded by ID yet.
+- **Change request:** None.
+- **Instructor response:** *(To be completed by the instructor.)*
 
 ---
 
