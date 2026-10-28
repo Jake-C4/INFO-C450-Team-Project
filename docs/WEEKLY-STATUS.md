@@ -1,4 +1,4 @@
-# [Product/Service Name] — Weekly Status
+# HostCircle — Weekly Status
 
 > **When:** end of every week · **Owner:** Delivery Lead (everyone contributes) · **Done when:** this week's entry is added at the top and synced before the weekly deadline.
 >
