@@ -7,6 +7,28 @@
 This is the one file your instructor checks each week. Keep each entry short: someone should be able to read it in a minute.
 
 ---
+## Week 2 — October 29, 2026
+
+- **Done:**
+  - Matthew (Delivery Lead) — Created an initial draft of the HostCircle Style Guide following the course template and requirements.
+  - Team — Continued working on the Week 2 documentation, including the Specification and Style Guide.
+  - Both documents are still in the draft/review stage, and final team approval has not yet been recorded.
+
+- **Next:**
+  - Jacob (Product Owner) — Continue refining the Specification, including requirements, scenarios, and acceptance tests.
+  - Kenneth (Architecture Lead) — Review the Specification for feasibility and provide feedback on the proposed design.
+  - Matthew (Delivery Lead) — Make any needed adjustments to the Style Guide based on team feedback and continue maintaining Weekly Status.
+  - Team — Review both documents, discuss any suggested changes, and work toward final approval. Begin preparing for Week 3 requirements.
+
+- **Blockers:** No specific technical blockers have been identified at this time. Both documents are still awaiting team review and approval.
+
+- **Open questions:** No specific questions have been confirmed for this update. Any questions identified during document review can be recorded in the Specification.
+
+- **Change request:** None at this time.
+
+- **Instructor response:** *(To be completed by the instructor.)*
+
+---
 
 ## Week 1 — October 22, 2026
 
