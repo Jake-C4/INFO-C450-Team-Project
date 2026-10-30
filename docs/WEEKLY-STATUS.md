@@ -23,7 +23,7 @@ This is the one file your instructor checks each week. Keep each entry short: so
 - **Blockers:** Initial confusion about team membership and project choice caused delays. These have since been resolved.
 - **Open questions:** None recorded by ID yet.
 - **Change request:** None.
-- **Instructor response:** *(To be completed by the instructor.)*
+- **Instructor response:** Approved, 10/29/26
 
 ---
 
