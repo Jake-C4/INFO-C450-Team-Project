@@ -7,6 +7,30 @@
 This is the one file your instructor checks each week. Keep each entry short: someone should be able to read it in a minute.
 
 ---
+## Week 3 — November 5, 2026
+
+- **Done:**
+  - Matthew (Delivery Lead) — Checked in with the team about the Specification and prototype and prepared this Weekly Status update.
+  - Team — Discussed remaining work and availability. Completion of the Specification and prototype has not yet been confirmed.
+
+- **Next:**
+  - Jacob (Product Owner) — Continue updating the Specification and coordinate the remaining prototype work and feedback.
+  - Kenneth (Architecture Lead) — Review the Specification for feasibility and work on the required Plan and Data & API Design sections.
+  - Matthew (Delivery Lead) — Maintain the Weekly Status and update the Style Guide if needed after team review.
+  - Team — Confirm what is completed, identify remaining tasks, and agree on a realistic timeline for catching up.
+
+- **Blockers:** Multiple team members have needed time for personal and family matters. This has reduced availability and delayed communication, document updates, and team review. We are staying in contact and working through the remaining tasks as availability allows.
+
+- **Open questions:**
+  - What Specification and prototype updates are ready for review?
+  - What work is still needed to meet this week's requirements?
+  - What timeline is realistic for completing the remaining work?
+    
+- **Change request:** No formal change request at this time. If we need a deadline adjustment, we will contact the instructor to discuss it.
+
+- **Instructor response:** *(To be completed by the instructor.)*
+
+---
 ## Week 2 — October 29, 2026
 
 - **Done:**
