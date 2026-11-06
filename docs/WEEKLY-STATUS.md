@@ -28,7 +28,7 @@ This is the one file your instructor checks each week. Keep each entry short: so
     
 - **Change request:** No formal change request at this time. If we need a deadline adjustment, we will contact the instructor to discuss it.
 
-- **Instructor response:** *(To be completed by the instructor.)*
+- **Instructor response:** *jLyst: Approved*
 
 ---
 ## Week 2 — October 29, 2026
