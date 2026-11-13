@@ -1,6 +1,8 @@
-# HostCircle – Group Hosting Rotation — Specification
+# HostCircle — Specification
 
-**Review status:** The Constitution is approved. The proposal in sections 1–7 is a draft for group review and is not yet approved.
+**Version:** 0.2 (draft)
+
+**Review status:** The Constitution is approved. Sections 1–7 are proposals for team review and are not approved.
 
 ## 0. Constitution
 
@@ -14,90 +16,88 @@ Non-negotiable principles this product must never violate, regardless of feature
 
 ---
 
-## 1. Problem & Intent
+## 1. Problem & Evidence
 
-**Who is this for?**  
-Friend groups that regularly take turns hosting game nights, dinners, or other gatherings.
+**Problem and success:** Friend groups that host gatherings may have difficulty estimating attendance and coordinating food, drinks, and other contributions. In the interview notes below, a host described duplicate items and missing items. This is evidence from two friends who host gatherings, not showing that the problem is the same across all groups. Proposed success measure: during a four-week pilot, at least 80% of gatherings created have a host and at least one contribution recorded, with participant feedback collected about whether responsibilities are shared fairly. The tesm must confirm the measure and whether a pilot is feasible.
 
-**What problem do they have today?**  
-It may be difficult to keep track of who hosted last, whose turn is next, and what people contributed. Validate whether this is a recurring issue and how people handle it today.
+**Evidence:**
 
-**Why now / why us?**  
-HostCircle could offer one place to organize gatherings, hosting assignments, and contributions. Confirm the need with people who regularly host before treating this as validated.
-
-**What does success look like?**  
-Proposed measure: In a four-week pilot with a small number of participating groups, at least 80% of gatherings created have a host and at least one contribution recorded. Collect participant feedback on whether the rotation feels fair.
+| ID | What we heard or saw | From whom |
+|----|----------------------|-----------|
+| E1 | Planning begins about 2–3 weeks before an event; the host selects a date and uses a group chat to estimate attendance. | Two friends who host gatherings; combined interview notes. The notes do not separate which person made each point. |
+| E2 | Food and drinks are difficult to coordinate, the notes describe duplicate snack items while important things such as ice may be missed. | Same combined interview notes as E1. |
+| E3 | Hosting is chosen randomly, while the host keeps a list of people and the items they plan to bring to avoid duplicates or anything missing. | Same combined interview notes as E1. |
+| E4 | The host keeps backup supplies and may ask someone else to cover an item when a person cancels. | Same combined interview notes as E1. |
 
 ---
 
 ## 2. Scope
 
-### In scope
+**In scope (proposed):** Creating gatherings, assigning a host to a gathering, and recording contributions with the item and responsible member.
 
-Proposed first-version scope:
-- Creating gatherings.
-- Assigning hosts.
-- Recording contributions.
-
-### Out of scope
-
-For the first version, features beyond creating gatherings, assigning hosts, and recording contributions are not included unless the group agrees otherwise.
+**Out of scope (proposed):** Features beyond those listed above, unless we decide to change the scope after reviewing the questions.
 
 ---
 
-## 3. Users & Key Scenarios
+## 3. User Scenarios
 
-Proposed primary users are members of a friend group that shares hosting. Key scenarios:
-- A group member creates a gathering.
-- A host is assigned to the gathering.
-- A member records a contribution.
+**S1: Create a gathering** — Proposed priority: P1
+- Actor: Group member
+- Trigger: The group decides to hold a gathering.
+- Steps: Select a group > enter a title and date/time > create the gathering.
+- Success outcome: The gathering appears in the group's gathering list.
+- Failure outcome: A required title or date/time is missing > the gathering is not created and the missing information is identified.
+
+**S2: Assign a host** — Proposed priority: P1
+- Actor: Group member
+- Trigger: The group has decided who will host a gathering.
+- Steps: Open the gathering > select a member of the group as host > save the assignment.
+- Success outcome: The selected member is shown as the gathering's host.
+- Failure outcome: The selected person is not a member of the group > the assignment is not saved and the issue is identified.
+
+**S3: Record and review contributions** — Proposed priority: P1
+- Actor: Group member
+- Trigger: A member agrees to bring an item to a gathering.
+- Steps: Open the gathering > enter the item and responsible member > save > review the contribution list.
+- Success outcome: The item appears with the responsible member in the gatherings contribution list.
+- Failure outcome: The item or responsible member is missing > the contribution is not saved and the missing information is identified.
 
 ---
 
-## 4. Requirements
+## 4. Requirements & Acceptance Tests
 
-Proposed requirements:
-- Members can create gatherings for their group.
-- A host can be assigned to each gathering.
-- Contributions can be recorded for a gathering.
+The requirements and priorities below are draft proposals. The Product Owner and team must confirm them; the interview does not establish that each is a P1 need.
+
+| ID | Requirement | Priority | Acceptance test (do → expect) | Evidence |
+|----|-------------|----------|-------------------------------|----------|
+| R1 | When a group member creates a gathering with a title and date/time, the system shall save it to the selected group and make it available in that group's gathering list. | Proposed P1 | Create a gathering with a title and date/time > it shows in the selected groups list with those details. Submit without a title or date/time > it is not created and the missing information is identified. | E1 |
+| R2 | When a group member assigns a host to a gathering, the system shall associate the selected group member with the gathering as its host. | Proposed P1 | Assign a member of the gatherings group as host > that member is shown as host. Attempt to assign a person outside the group  > the assignment is rejected. | E3 |
+| R3 | When a group member records a contribution for a gathering, the system should save the item description and responsible member and make them available in the given gatherings contribution list. | Proposed P1 | Record an item and member > both appear together in the gatherings contribution list. Omit either value > the contribution is not saved and the missing information is identified. | E2, E3, E4 |
 
 ---
 
-## 5. Acceptance Tests
+## 5. Open Questions
 
-Proposed checks:
-- A member can create a gathering and assign a host.
-- A contribution can be recorded for a gathering.
-- During the proposed four-week pilot, at least 80% of created gatherings have a host and at least one contribution recorded.
-- Participant feedback is collected on whether the rotation feels fair.
+| ID | Question | Raised by | Owner | Status |
+|----|----------|-----------|-------|--------|
+| Q1 | Does HostCircle need to calculate or recommend whose turn is next, or are recording past hosts and assigning each gatherings host sufficient? The Constitution requires fair rotation, while the interview describes an informal host selection. | Product Owner, after interview | Product Owner and team | Open |
+| Q2 | Should estimated headcount or RSVP tracking be included in the first version? The headcount is currently estimated in a group chat. | Product Owner, after interview | Product Owner and team | Open |
+| Q3 | What qualifies as a contribution, and is quantity needed? | Product Owner, after interview | Product Owner and team | Open |
+| Q4 | Should duplicate items be prevented or epressed, or left to the group to rfigure out? What happens when a contributor cancels? | Product Owner, after interview | Product Owner and team | Open |
+| Q5 | Who may assign a host or record and edit a contribution for another member? | Product Owner / Architecture Lead | Product Owner and team | Open |
+| Q6 | Will the prototype use fixed sample groups and members, or must users create groups and manage membership? | Architecture Lead | Architecture Lead | Open |
+| Q7 | Is a four-week pilot doable? How will feedback about fair sharing be collected? | Product Owner | Product Owner and team | Open |
+| Q8 | Is the proposed 80% pilot measure appropriate, and what counts as a gathering with a recorded contribution? | Product Owner | Product Owner and team | Open |
 
 ---
 
 ## 6. Constraints & Assumptions
 
-Proposed assumptions for review:
-- Estimate $0 in out-of-pocket costs for a class prototype using free development tools; this excludes team time and assumes no paid services.
-- Target 4–5 weeks of work, with a final build in December, subject to the team's schedule and focused first-version scope.
-- A four-week pilot with a small number of groups is feasible; confirm participants and timing with the team.
+- The four-week pilot and 80% measure are proposals.
+- The interview notes represent two friends who host gatherings, the notes combine their responses and do not identify which person made each point.
+- Hosting rotation, headcount tracking, contribution rules, and permissions remain unresolved until the open questions are answered.
 
 ---
 
-## 7. Risks & Open Questions
+## 7. Review & Approval
 
-Proposed questions to resolve:
-- Do people who regularly host consider tracking turns and contributions a recurring problem, and how do they manage it today?
-- What counts as a contribution for the success measure?
-- Can the team conduct a four-week pilot, and how will participant feedback about fairness be collected?
-- Would any deployment or hosting needs create costs beyond the $0 prototype estimate?
-
----
-
-## 8. Review & Approval
-
-TBD
-
-### Current Week 1 status
-
-The **Constitution is the only approved section of the HostCircle Specification so far**. Sections 1–7 contain draft proposals for group review and have not been approved. Section 8 remains **TBD**.
-
-The three Constitution principles above are the approved versions, including the revised **Principle 1**.
