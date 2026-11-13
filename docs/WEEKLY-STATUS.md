@@ -7,6 +7,32 @@
 This is the one file your instructor checks each week. Keep each entry short: someone should be able to read it in a minute.
 
 ---
+## Week 4 — November 12, 2026
+
+- **Done:**
+  - Jacob (Product Owner) — Completed two interviews about hosting gatherings and used the feedback to update the Business Case and Specification. Added Kenneth's Data & API Design draft to the repository. These updates are in the `Review` branch.
+  - Kenneth (Architecture Lead) — Prepared the Data & API Design draft, including entities, relationships, normalization, and proposed API endpoints.
+  - Matthew (Delivery Lead) — Prepared this status update outlining completed work and remaining review items. The Style Guide draft and previous weekly updates are on `main`.
+
+- **Next:**
+  - Jacob — Gather the remaining user feedback, complete and record prototype testing, and resolve the Specification's priorities and open questions.
+  - Kenneth — Complete the Plan, including ADR-00, screens, build order, and risks. Update the API design to match the team's decisions.
+  - Matthew — Check the Style Guide against the updated Specification, share review findings, and maintain Weekly Status.
+  - Team — Review and approve the documents when ready, then bring the reviewed updates into `main` while preserving the Style Guide and weekly history.
+
+- **Blockers:** The Plan is still an unfilled template. The Specification and API design remain drafts, with decisions needed before final approval. The latest work is split between `Review` and `main`.
+
+- **Open questions:**
+  - Q1 — Does fair rotation require recommending the next host, or is host history enough?
+  - Q3–Q4 — What contribution details are needed, and how should duplicates or cancellations be handled?
+  - Q5 — Who can assign hosts or record and edit another member's contributions?
+  - Q6 — Will the prototype use sample groups and members, or support creating and managing them?
+
+- **Change request:** None at this time.
+
+- **Instructor response:** *(To be completed by the instructor.)*
+
+---
 ## Week 3 — November 5, 2026
 
 - **Done:**
