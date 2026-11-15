@@ -20,7 +20,7 @@ This draft adapts the Product Owner-provided Data & API draft to the current pro
 
 **Sensitive fields:** `Member.display_name` is personal data. Use fictional names in the public prototype. A future real implementation must restrict group records to that group's authenticated members.
 
-**Pending decisions:** Confirm the database in ADR-00; decide whether groups and members are fixed sample data; resolve host and contribution permissions; confirm whether a history-based rotation is required. See Specification Q1, Q5, and Q6.
+**Pending decisions:** Confirm the database in ADR-00; decide whether groups and members are fixed sample data; resolve host and contribution permissions; confirm whether a history-based rotation, event invitations, or RSVP/headcount tracking are required. See Specification Q1, Q2, Q5, Q6, and Q9. Invitations and attendance are not modeled in this draft.
 
 ## 1. Entities
 

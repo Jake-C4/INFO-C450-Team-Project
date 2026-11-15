@@ -12,14 +12,14 @@
 Friends who get together regularly and take turns hosting.
 
 **What's wrong today?**
-In interviews, two friends who host gatherings said it can be hard to keep track of who is coming and what people are bringing. One described ending up with too many bags of chips but not enough ice. Their notes also show that hosting is often informal rather than a set rotation. This is just an early look from two people, so we need to talk to more hosts.
+Three people who host gatherings have shared how they plan. Two buddies described trouble keeping track of guests and what people bring, including ending up with too many bags of chips but not enough ice. Matthew's wife said she relies on memory and scattered texts, and that some friends may miss Facebook event details. She also said the same person often hosts. This is an early look from three people, so we still need to learn whether other groups have the same problems.
 
 **How will we know it worked?**
 One idea is to try HostCircle with a small group for four weeks and see whether at least 80% of gatherings have a host and one or more contributions listed. We should also ask people whether sharing the work feels fair. The team still needs to decide if this is a realistic test and whether 80% is a useful target.
 
 ## 2. Proposed Solution
 
-HostCircle would help a group plan gatherings, keep track of who's hosting, and list what people are bringing. We still need to decude whether it should also track headcount or recommend whose turn it is to host.
+HostCircle would help a group plan gatherings, keep track of who's hosting, and list what people are bringing. We still need to decide whether it should also track headcount or recommend whose turn it is to host.
 
 ## 3. Options Considered
 
@@ -33,7 +33,7 @@ HostCircle would help a group plan gatherings, keep track of who's hosting, and 
 
 | Question | Answer |
 |----------|--------|
-| **Will people actually use it?** | The two interviews suggest that keeping track of guests and contributions can be a hassle. We need to talk to more people and test the idea before we know if others would use it. |
+| **Will people actually use it?** | The three interviews suggest that keeping track of guests, plans, and contributions can be a hassle. We need to talk to more people and test the idea before we know if others would use it. |
 | **Can we build it with what we have?** | A small first version seems doable with the tools available for the class. The team still needs to agree on what to include. |
 | **Can it be done in time to matter?** | An earlier draft suggested 4–5 weeks of work finish in December. |
 | **What does it cost?** | The class prototype is expected to cost $0 out of pocket if we use free tools. This doesn't include time, and a real service might have hosting or maintenance costs. |
