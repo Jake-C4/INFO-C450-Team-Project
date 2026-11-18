@@ -30,7 +30,7 @@ This is the one file your instructor checks each week. Keep each entry short: so
 
 - **Change request:** None at this time.
 
-- **Instructor response:** *(To be completed by the instructor.)*
+- **Instructor response:** *jLyst: Approved*
 
 ---
 ## Week 3 — November 5, 2026
