@@ -5,6 +5,23 @@
 > **Filled-in Example:** `docs/examples/weekly-status-example.md`
 
 This is the one file your instructor checks each week. Keep each entry short: someone should be able to read it in a minute.
+---
+## Week 5 — November 19, 2026
+
+- **Done:**
+  - Jacob (Product Owner) — Added the third host interview on `Review` and recommended creating a gathering (R1) first.
+  - Kenneth (Architecture Lead) — Confirmed there’s no newer Plan and agreed to finish the existing one.
+  - Matthew (Delivery Lead) — Drafted the task list and matched all three proposed requirements to their acceptance tests and API endpoints.
+
+- **Next:** Jacob — confirm whether picking a host (R2) and tracking who brings what (R3) are must-haves for the first build. Kenneth — add the screens and build order to the Plan on `Review`. Matthew — match the tasks to those screens and bring the list back for approval.
+
+- **Blockers:** The Plan has no screen entries yet, so the cross-check is still open.
+
+- **Open questions:** Do we use sample groups (Q6)? What counts as a contribution (Q3)? Who can assign hosts or enter items for others (Q5)?
+
+- **Change request:** None requested in this update.
+
+- **Instructor response:** *(For the instructor.)*
 
 ---
 ## Week 4 — November 12, 2026
