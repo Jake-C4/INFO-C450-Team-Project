@@ -46,5 +46,5 @@ We recommend continuing to explore HostCircle and talking to more hosts before s
 ## SVC Self-Check
 
 - [x] **Simple** — Uses plain language and stays focused on the problem and proposed solution.
-- [ ] **Valuable** — The interviews are an early signal, but more feedback is needed to confirm the problem and success measure.
-- [ ] **Complete** — The sponsor decision, date, and approval are still pending.
+- [ ] **Valuable** — The interviews are an early signal; the team still needs to confirm the problem and success measure.
+- [ ] **Complete** — Sponsor decision, date, and approval are pending.

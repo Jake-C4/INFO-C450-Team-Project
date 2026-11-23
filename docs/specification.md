@@ -2,7 +2,7 @@
 
 **Version:** 0.2 (draft)
 
-**Review status:** The Constitution is approved. Sections 1–7 are proposals for team review and are not approved.
+**Review status:** The Constitution is approved. This is the Week 2 draft for team review; prototype testing and final approval remain Week 3 work.
 
 ## 0. Constitution
 
@@ -105,3 +105,5 @@ The requirements and priorities below are draft proposals. The Product Owner and
 ---
 
 ## 7. Review & Approval
+
+**Week 2 draft review:** Jake (Product Owner) — reviewed the draft requirements and priorities on 2026-11-22. This review does not approve the final Specification; Week 3 prototype evidence and team approval are still required.

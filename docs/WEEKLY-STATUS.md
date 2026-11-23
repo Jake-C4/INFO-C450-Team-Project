@@ -8,14 +8,26 @@ This is the one file your instructor checks each week. Keep each entry short: so
 
 ---
 
-## Week [N] — [date]
+## Week 2 — 2026-11-22
 
-- **Done:** Jake - Created Repository
-- **Next:** *(What each person will do next week.)*
-- **Blockers:** *(Anything stopping progress, and who can help — or "None.")*
-- **Open questions:** *(Open items from the Spec's Open Questions, by ID — or "None.")*
-- **AI use:** *(How the team used AI this week, and who checked it — or "None.")*
-- **Change request:** *(Optional — see "Adapting the Process" in the README. What you want to change, why, and what it affects — or "None.")*
+- **Done:** Reviewed the Specification draft and recorded a draft review only. Corrected unsupported sponsor and team approval claims in the Business Case and status log.
+- **Next:** Complete the Style Guide and obtain team approval; conduct and document the Week 3 prototype test and refine the Specification.
+- **Blockers:** The Style Guide is blank. The Business Case sponsor decision and team approvals are not recorded.
+- **Open questions:** Q1–Q9 remain open where noted in the Specification.
+- **AI use:** Copilot reviewed the documents to ensure the corrrect information is in place and accurate, and suggested fixes from there.
+- **Change request:** None.
+- **Instructor response:** *(Filled in by the instructor: Approved / Declined, date, and any note.)*
+
+---
+
+## Week 1 — date not recorded
+
+- **Done:** The existing status entry records that Jake created the repository.
+- **Next:** Record the sponsor's Go / No-go decision; confirm team roles and complete the Week 1 deliverables.
+- **Blockers:** The sponsor decision and team roles are not recorded in the project documents.
+- **Open questions:** The pilot measure and product scope still need team review; see the Specification's open questions.
+- **AI use:** Not recorded in the existing Week 1 entry; confirm with the team if known.
+- **Change request:** None.
 - **Instructor response:** *(Filled in by the instructor: Approved / Declined, date, and any note.)*
 
 ---
