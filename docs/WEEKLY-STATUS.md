@@ -8,7 +8,7 @@ This is the one file your instructor checks each week. Keep each entry short: so
 
 ---
 
-## Week 2 — 2026-11-22
+## Week 2 — 2026-11-19
 
 - **Done:** Reviewed the Specification draft and recorded a draft review only. Corrected unsupported sponsor and team approval claims in the Business Case and status log.
 - **Next:** Complete the Style Guide and obtain team approval; conduct and document the Week 3 prototype test and refine the Specification.
