@@ -21,7 +21,7 @@ This is the one file your instructor checks each week. Keep each entry short: so
 
 - **Change request:** None requested in this update.
 
-- **Instructor response:** *(For the instructor.)*
+- **Instructor response:** *jLyst: Approved*
 
 ---
 ## Week 4 — November 12, 2026
