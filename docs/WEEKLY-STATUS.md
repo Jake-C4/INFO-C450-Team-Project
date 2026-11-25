@@ -6,6 +6,19 @@
 
 This is the one file your instructor checks each week. Keep each entry short: someone should be able to read it in a minute.
 ---
+
+---
+## Week 6 — November 25, 2026
+
+- **Done:** We ran T0–T11 together using the documents from `main` and Matthew’s local Plan. Game Night stayed in Game Club after a refresh. Trying to assign Sam, who wasn’t in Game Club, left Jo as host. On Sunday Potluck, we could see who was bringing paper plates. Both missing-field checks left Alex’s entry in place.
+- **Next:** Jacob will review the group and member rules in the Specification. Kenneth will check the sample data and permissions against the Data & API Design. Matthew will update the test steps and coordinate a fresh run of the affected tasks.
+- **Blockers:** Nothing stopped us from finishing the validation. The Plan and task list still need formal team review.
+- **Open questions:** If Alex is the only member available, should the form select Alex automatically? What date and time should we use for the sample Sunday Potluck each time we start over?
+- **AI use:** We gave Copilot one task at a time. On T11, its browser test reused old form values. It removed the extra test entries and repeated the checks.
+- **Change request:** None.
+- **Instructor response:** *(For the instructor.)*
+
+---
 ## Week 5 — November 19, 2026
 
 - **Done:**
